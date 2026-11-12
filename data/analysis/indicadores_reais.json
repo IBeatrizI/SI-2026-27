@@ -1,0 +1,44 @@
+{
+  "anos": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "total_2021_2024_kwh": "182472494439.000",
+  "consumo_anual_kwh": {
+    "2021": "44580399531.720",
+    "2022": "45558865733.360",
+    "2023": "45782296564.368",
+    "2024": "46550932609.552"
+  },
+  "variacao_2021_2024_percentagem": "4.4202",
+  "top5_municipios_2024": [
+    {
+      "municipio": "Lisboa",
+      "distrito": "Lisboa",
+      "kwh": "3079813079.660"
+    },
+    {
+      "municipio": "Maia",
+      "distrito": "Porto",
+      "kwh": "1271202229.000"
+    },
+    {
+      "municipio": "Porto",
+      "distrito": "Porto",
+      "kwh": "1245713524.000"
+    },
+    {
+      "municipio": "Figueira da Foz",
+      "distrito": "Coimbra",
+      "kwh": "1205998537.000"
+    },
+    {
+      "municipio": "Vila Nova de Gaia",
+      "distrito": "Porto",
+      "kwh": "1147436705.000"
+    }
+  ],
+  "nota": "Dados E-REDES processados de CSVs locais; data da recolha: 2026-11-12; agregados em kWh. Sem comparação automática com DGEG."
+}

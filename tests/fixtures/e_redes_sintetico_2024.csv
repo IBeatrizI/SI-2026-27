@@ -1,0 +1,6 @@
+ano;mes;data;distrito;concelho;freguesia;nivel_de_tensao;energia_ativa_kwh;coddistrito;coddistritoconcelho;coddistritoconcelhofreguesia;mes_int
+2024;01;2024-01;Beja;Beja;FREGUESIA_TESTE_A;Baixa Tensão;120.50;02;0205;020501;1
+2024;01;2024-01;Beja;Beja;FREGUESIA_TESTE_B;Baixa Tensão;30.25;02;0205;020502;1
+2024;02;2024-02;Beja;Beja;FREGUESIA_TESTE_A;Baixa Tensão;-5.00;02;0205;020501;2
+2024;01;2024-01;Beja;OUTROS BEJA;OUTROS BEJA;Baixa Tensão;12.00;02;;;1
+2024;01;2024-01;Beja;Beja;FREGUESIA_TESTE_A;Muito Alta, Alta e Média Tensões;8.00;02;0205;020501;1

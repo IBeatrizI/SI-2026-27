@@ -1,0 +1,70 @@
+{
+  "resultado": "APROVADO",
+  "tipo": "reconciliação independente por mês x distrito x tensão",
+  "anos": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "meses": 48,
+  "grupos_reconciliados": 1728,
+  "grupos_com_diferenca": 0,
+  "linhas_originais": 214795,
+  "linhas_por_ano": {
+    "2021": 53545,
+    "2022": 53650,
+    "2023": 53744,
+    "2024": 53856
+  },
+  "municipios_distintos_por_ano": {
+    "2021": 278,
+    "2022": 278,
+    "2023": 278,
+    "2024": 278
+  },
+  "consumos_negativos_linhas_por_ano": {
+    "2021": 9,
+    "2022": 24,
+    "2023": 63,
+    "2024": 89
+  },
+  "linhas_rgpd_por_ano": {
+    "2021": 241,
+    "2022": 256,
+    "2023": 293,
+    "2024": 321
+  },
+  "soma_kwh": "182472494439.000",
+  "origens": [
+    {
+      "ano": 2021,
+      "ficheiro": "e_redes_consumos_concelho_2021.csv",
+      "sha256": "35b41d62757cc9a47659dcc083e5ffe8e6757caf44a4222d507de4aad0e1b55e",
+      "linhas": 53545,
+      "recuperado_utc": "2026-11-12T00:08:23.881785+00:00"
+    },
+    {
+      "ano": 2022,
+      "ficheiro": "e_redes_consumos_concelho_2022.csv",
+      "sha256": "874caa18152c0377b1c049918a150decbacd239401c0153a3cdf7fcf85bf401c",
+      "linhas": 53650,
+      "recuperado_utc": "2026-11-12T00:08:27.213100+00:00"
+    },
+    {
+      "ano": 2023,
+      "ficheiro": "e_redes_consumos_concelho_2023.csv",
+      "sha256": "c7d07f707660ad9463f7e628d331fe7e7e79e7fce7a3a1cf2fc03e09f77b6630",
+      "linhas": 53744,
+      "recuperado_utc": "2026-11-12T00:08:32.655481+00:00"
+    },
+    {
+      "ano": 2024,
+      "ficheiro": "e_redes_consumos_concelho_2024.csv",
+      "sha256": "d4e5b31e1e7a42b1283a2ed6b9af5339f411121a2d42bede402ea044e5f5f529",
+      "linhas": 53856,
+      "recuperado_utc": "2026-11-12T00:08:35.654836+00:00"
+    }
+  ],
+  "nota": "Verificação da integridade dos ficheiros recolhidos e de igualdade de agregados. Não certifica qualidade estatística nem equivalência com consumo total nacional."
+}

@@ -1,0 +1,70 @@
+{
+  "descricao": "Manifesto dos CSV originais E-REDES recolhidos pelo grupo em 12/11/2026. Não representa uma nova descarga.",
+  "dataset": "3-consumos-faturados-por-municipio-ultimos-10-anos",
+  "anos": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "fonte": "E-REDES Open Data",
+  "licenca": "CC BY 4.0",
+  "origens": [
+    {
+      "fonte": "E-REDES Open Data",
+      "dataset": "3-consumos-faturados-por-municipio-ultimos-10-anos",
+      "licenca": "CC BY 4.0",
+      "ano": 2021,
+      "recuperado_utc": "2026-11-12T00:08:23.881785+00:00",
+      "url_exportacao": "https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/3-consumos-faturados-por-municipio-ultimos-10-anos/exports/csv?where=ano+%3D+%272021%27&delimiter=%3B&with_bom=false",
+      "url_contagem": "https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/3-consumos-faturados-por-municipio-ultimos-10-anos/records?where=ano+%3D+%272021%27&limit=1",
+      "linhas": 53545,
+      "contagem_api": 53545,
+      "sha256": "35b41d62757cc9a47659dcc083e5ffe8e6757caf44a4222d507de4aad0e1b55e",
+      "delimitador": ";",
+      "nota": "Exportação completa para o ano segundo a contagem da API no momento da descarga."
+    },
+    {
+      "fonte": "E-REDES Open Data",
+      "dataset": "3-consumos-faturados-por-municipio-ultimos-10-anos",
+      "licenca": "CC BY 4.0",
+      "ano": 2022,
+      "recuperado_utc": "2026-11-12T00:08:27.213100+00:00",
+      "url_exportacao": "https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/3-consumos-faturados-por-municipio-ultimos-10-anos/exports/csv?where=ano+%3D+%272022%27&delimiter=%3B&with_bom=false",
+      "url_contagem": "https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/3-consumos-faturados-por-municipio-ultimos-10-anos/records?where=ano+%3D+%272022%27&limit=1",
+      "linhas": 53650,
+      "contagem_api": 53650,
+      "sha256": "874caa18152c0377b1c049918a150decbacd239401c0153a3cdf7fcf85bf401c",
+      "delimitador": ";",
+      "nota": "Exportação completa para o ano segundo a contagem da API no momento da descarga."
+    },
+    {
+      "fonte": "E-REDES Open Data",
+      "dataset": "3-consumos-faturados-por-municipio-ultimos-10-anos",
+      "licenca": "CC BY 4.0",
+      "ano": 2023,
+      "recuperado_utc": "2026-11-12T00:08:32.655481+00:00",
+      "url_exportacao": "https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/3-consumos-faturados-por-municipio-ultimos-10-anos/exports/csv?where=ano+%3D+%272023%27&delimiter=%3B&with_bom=false",
+      "url_contagem": "https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/3-consumos-faturados-por-municipio-ultimos-10-anos/records?where=ano+%3D+%272023%27&limit=1",
+      "linhas": 53744,
+      "contagem_api": 53744,
+      "sha256": "c7d07f707660ad9463f7e628d331fe7e7e79e7fce7a3a1cf2fc03e09f77b6630",
+      "delimitador": ";",
+      "nota": "Exportação completa para o ano segundo a contagem da API no momento da descarga."
+    },
+    {
+      "fonte": "E-REDES Open Data",
+      "dataset": "3-consumos-faturados-por-municipio-ultimos-10-anos",
+      "licenca": "CC BY 4.0",
+      "ano": 2024,
+      "recuperado_utc": "2026-11-12T00:08:35.654836+00:00",
+      "url_exportacao": "https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/3-consumos-faturados-por-municipio-ultimos-10-anos/exports/csv?where=ano+%3D+%272024%27&delimiter=%3B&with_bom=false",
+      "url_contagem": "https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/3-consumos-faturados-por-municipio-ultimos-10-anos/records?where=ano+%3D+%272024%27&limit=1",
+      "linhas": 53856,
+      "contagem_api": 53856,
+      "sha256": "d4e5b31e1e7a42b1283a2ed6b9af5339f411121a2d42bede402ea044e5f5f529",
+      "delimitador": ";",
+      "nota": "Exportação completa para o ano segundo a contagem da API no momento da descarga."
+    }
+  ]
+}

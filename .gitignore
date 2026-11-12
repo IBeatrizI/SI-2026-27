@@ -1,0 +1,26 @@
+# Originais e modelos processados (reproduzíveis, demasiado volumosos para commits de rotina)
+/data/raw/e_redes/*.csv
+/data/raw/e_redes/*.meta.json
+/data/raw/dgeg/*
+/data/raw/pordata/*
+/data/processed/*.csv
+
+# Os pequenos snapshots validados em data/quality/ e data/analysis/
+# são intencionalmente versionados para documentar os resultados da Fase 2.
+
+# Ficheiros temporários Power BI e modelos locais grandes
+*.pbix.bak
+*.pbit.bak
+*.lock
+~$*
+*.tmp
+
+# Python, IDE e sistema operativo
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.vscode/
+.DS_Store
+Thumbs.db
